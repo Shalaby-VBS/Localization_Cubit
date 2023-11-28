@@ -1,16 +1,24 @@
-# localization_cubit
+# 🏵 Localizations Cubit
 
-Localization Cubit.
+- Simple UI Screen 👍
 
-## Getting Started
+## 🚀 Getting Started
 
-This project is a starting point for a Flutter application.
+- This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 💾 Credits
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- This repository is to Reduce time & for learning purposes, following of [Flutter Docs]([https://twitter.com/hnasr](https://docs.flutter.dev/ui/accessibility-and-internationalization/internationalization)https://docs.flutter.dev/ui/accessibility-and-internationalization/internationalization).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 UI
+
+<p align="center">
+  <img src="https://github.com/Shalaby-VBS/Localization_Cubit/assets/149938388/0c8bb7fe-1b29-40a3-b1b6-01e72cb06537"/>
+
+## 🛠 Dependencies
+
+1️⃣ shared_preferences:
+
+2️⃣ flutter_bloc:
+
+3️⃣ flutter_localizations:
